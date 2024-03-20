@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5d9fa8f3.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.9bced3f3.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.9bced3f3.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.29f37f73.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.29f37f73.js.map",
+    "static/css/2.442ad880.chunk.css": "/react-portfolio/static/css/2.442ad880.chunk.css",
+    "static/js/2.a927779a.chunk.js": "/react-portfolio/static/js/2.a927779a.chunk.js",
+    "static/js/2.a927779a.chunk.js.map": "/react-portfolio/static/js/2.a927779a.chunk.js.map",
+    "static/js/3.d0d4a09f.chunk.js": "/react-portfolio/static/js/3.d0d4a09f.chunk.js",
+    "static/js/3.d0d4a09f.chunk.js.map": "/react-portfolio/static/js/3.d0d4a09f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.65f7e79703d8ab052db6ab597e3146e8.js": "/react-portfolio/precache-manifest.65f7e79703d8ab052db6ab597e3146e8.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.442ad880.chunk.css.map": "/react-portfolio/static/css/2.442ad880.chunk.css.map",
+    "static/css/main.5d9fa8f3.chunk.css.map": "/react-portfolio/static/css/main.5d9fa8f3.chunk.css.map",
+    "static/js/2.a927779a.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.a927779a.chunk.js.LICENSE.txt",
+    "static/media/PreviousPortfolio.JPG": "/react-portfolio/static/media/PreviousPortfolio.f9908342.JPG",
+    "static/media/ProfileMini.jpg": "/react-portfolio/static/media/ProfileMini.f01bfef1.jpg",
+    "static/media/aboutImage.png": "/react-portfolio/static/media/aboutImage.e38e0e89.png",
+    "static/media/beautybeginsscreen.jpg": "/react-portfolio/static/media/beautybeginsscreen.8d2cc13e.jpg",
+    "static/media/bluesclues.jpg": "/react-portfolio/static/media/bluesclues.eb5232c0.jpg",
+    "static/media/numgame.JPG": "/react-portfolio/static/media/numgame.e953e394.JPG",
+    "static/media/index.css": "/react-portfolio/static/media/roboto-vietnamese-400-normal.ca3b09b6.woff2",
+    "static/media/project.png": "/react-portfolio/static/media/project.40c76b36.png",
+    "static/media/redux.png": "/react-portfolio/static/media/redux.13cb0759.png",
+    "static/media/style.JPG": "/react-portfolio/static/media/style.2ba87862.JPG",
+    "static/media/teacozy.JPG": "/react-portfolio/static/media/teacozy.7b5e383e.JPG",
+    "static/media/web1.jpg": "/react-portfolio/static/media/web1.7fd6c2e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29f37f73.js",
+    "static/css/2.442ad880.chunk.css",
+    "static/js/2.a927779a.chunk.js",
+    "static/css/main.5d9fa8f3.chunk.css",
+    "static/js/main.9bced3f3.chunk.js"
+  ]
+}
